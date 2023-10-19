@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832012029846",
+    "project_id": "cekongkir-3b3a0",
+    "storage_bucket": "cekongkir-3b3a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832012029846:android:6526d1ddc6f2d9da4fd7b7",
+        "android_client_info": {
+          "package_name": "com.example.cek_ongkir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqin-hz63l0SO_t_mAsjKRhFnDVIgHiAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
